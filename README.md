@@ -22,8 +22,8 @@
 
 <p>
   <a href="https://ehsanfazli.ir/"><img src="https://img.shields.io/badge/Website-ehsanfazli.ir-39d353?style=for-the-badge&labelColor=161b22&color=0d1117" alt="Website" /></a>
-  <a href="https://twitter.com/ehsanfazliii"><img src="https://img.shields.io/badge/Twitter-@tsshack-58a6ff?style=for-the-badge&logo=x&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Twitter" /></a>
-  <a href="https://instagram.com/_devehsan_"><img src="https://img.shields.io/badge/Instagram-ehsanbidkhori-e4405f?style=for-the-badge&logo=instagram&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Instagram" /></a>
+  <a href="https://twitter.com/ehsanfazliii"><img src="https://img.shields.io/badge/Twitter-@ehsanfazliii-58a6ff?style=for-the-badge&logo=x&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Twitter" /></a>
+  <a href="https://instagram.com/_devehsan_"><img src="https://img.shields.io/badge/Instagram-_devehsan_-e4405f?style=for-the-badge&logo=instagram&logoColor=c9d1d9&labelColor=161b22&color=0d1117" alt="Instagram" /></a>
 </p>
 
 
