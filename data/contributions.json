@@ -1,11 +1,11 @@
 {
   "username": "TssHack",
-  "generated_at": "2026-11-20T15:22:57+00:00",
+  "generated_at": "2026-11-21T14:35:45+00:00",
   "range": {
     "from": "2025-11-16",
-    "to": "2026-11-20"
+    "to": "2026-11-21"
   },
-  "total": 456,
+  "total": 506,
   "days": [
     {
       "date": "2025-11-16",
@@ -1854,19 +1854,24 @@
     },
     {
       "date": "2026-11-20",
-      "count": 0,
-      "level": 0
+      "count": 7,
+      "level": 1
+    },
+    {
+      "date": "2026-11-21",
+      "count": 43,
+      "level": 4
     }
   ],
   "stats": {
-    "current_streak": 14,
+    "current_streak": 16,
     "longest_streak": 83,
     "best_day": {
       "date": "2026-10-23",
       "count": 47
     },
-    "active_days": 112,
-    "daily_average": 1.23,
+    "active_days": 114,
+    "daily_average": 1.36,
     "monthly": {
       "2025-11": 7,
       "2025-12": 26,
@@ -1880,7 +1885,7 @@
       "2026-08": 74,
       "2026-09": 30,
       "2026-10": 246,
-      "2026-11": 47
+      "2026-11": 97
     }
   }
 }
